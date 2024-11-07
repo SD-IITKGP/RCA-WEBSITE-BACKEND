@@ -6,3 +6,4 @@
 ## Frontend can be found at https://github.com/Rcaiitkgp/Rcaiitkgp.github.io
 ### Developed for https://github.com/Rcaiitkgp/Rcaiitkgp.github.io as a Web Design Head
 
+[FOOD_FEST_PORTAL_PROOF_CDC_PLACEMENT (1).pdf](https://github.com/user-attachments/files/17658789/FOOD_FEST_PORTAL_PROOF_CDC_PLACEMENT.1.pdf)
